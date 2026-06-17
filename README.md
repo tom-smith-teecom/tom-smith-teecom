@@ -13,7 +13,7 @@ I'm a  **low voltage designer** with experience in **systems design for audiovis
 
 - Ableton
 - Autocad
-- Affinity
+- Affinity Designer
 - After Effects
 - Photoshop
 - Resolve
