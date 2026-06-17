@@ -7,7 +7,7 @@ I'm a  **low voltage designer** with experience in **systems design for audiovis
 - 🌱 Currently learning: **the TEECOM way of life.**
 - 🔭 Working on: **Splat Creation through ML-Sharp and Splat Traversal in TouchDesigner in my free time.**
 - 🌍 Languages: **a lil bit of : c, c++, python, markdown, english, enough spanish to survive mexico city**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Fun fact: **I collect vinyl records and collected editions of comics alongside my modular synth addiction. my wallet does not like me one bit.**
 
 ## My Skills 🧠
 
