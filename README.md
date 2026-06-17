@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Tom Smith! 👋
 
-<!--
-**tom-smith-teecom/tom-smith-teecom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a  **low voltage designer** with experience in **systems design for audiovisual, nurse call, and telecommunications systems**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning: **the TEECOM way of life.**
+- 🔭 Working on: **Splat Creation through ML-Sharp and Splat Traversal in TouchDesigner in my free time.**
+- 🌍 Languages: **a lil bit of : c, c++, python, markdown, english, enough spanish to survive mexico city**
+- ⚡ Fun fact: **[a fun fact about yourself]**
+
+## My Skills 🧠
+
+- Ableton
+- Autocad
+- Affinity
+- After Effects
+- Photoshop
+- Resolve
+- Resolume
+- Revit
+- Soundvision
+- Wireless Workbench
+
+## Get in Touch 📬
+
+- **[[LinkedIn](https://www.linkedin.com/in/thomas-smith-cts-3b3b08176)]**
+
+
